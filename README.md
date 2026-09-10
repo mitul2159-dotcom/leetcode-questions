@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3895-count-digit-appearances) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
