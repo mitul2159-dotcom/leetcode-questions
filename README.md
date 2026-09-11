@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
