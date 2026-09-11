@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [3668-restore-finishing-order](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3668-restore-finishing-order) |
 ## Queue
 |  |
 | ------- |
