@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
