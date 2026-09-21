@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
