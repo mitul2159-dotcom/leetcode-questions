@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
