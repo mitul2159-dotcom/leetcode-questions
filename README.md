@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
