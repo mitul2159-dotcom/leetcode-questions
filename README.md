@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1664-ways-to-make-a-fair-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1664-ways-to-make-a-fair-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
