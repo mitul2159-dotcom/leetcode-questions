@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2643-row-with-maximum-ones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
