@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
