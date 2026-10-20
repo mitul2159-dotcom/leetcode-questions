@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3028-ant-on-the-boundary](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3838-weighted-word-mapping) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
+| [3028-ant-on-the-boundary](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
