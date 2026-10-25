@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0507-perfect-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Graph Theory
 |  |
@@ -235,4 +237,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0206-reverse-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
