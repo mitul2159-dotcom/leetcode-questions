@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3731-find-missing-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3895-count-digit-appearances) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3731-find-missing-elements) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 | [3978-unique-middle-element](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
