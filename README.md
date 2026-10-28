@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
