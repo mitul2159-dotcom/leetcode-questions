@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
@@ -239,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Minimax
 |  |
 | ------- |
