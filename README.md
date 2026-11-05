@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
