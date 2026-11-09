@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
