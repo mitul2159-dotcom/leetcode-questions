@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0507-perfect-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0086-partition-list) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Minimax
