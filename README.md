@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
