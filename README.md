@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0507-perfect-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Graph Theory
 |  |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
