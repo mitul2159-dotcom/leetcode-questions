@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -231,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -333,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
