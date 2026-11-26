@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0739-daily-temperatures](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
