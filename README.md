@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0739-daily-temperatures](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mitul2159-dotcom/leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
